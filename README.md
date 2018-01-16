@@ -1,6 +1,9 @@
 # Remove Product Tabs
 [WooCommerce](https://woocommerce.com) plugin to remove product tabs from a single product page.
 
+## Why?
+WooCommerce lacks a setting to disable displaying product tabs on a product page.
+
 ## Contents
 
 The Remove Product Tabs plugin includes the following files:
