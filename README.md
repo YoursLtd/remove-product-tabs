@@ -21,7 +21,7 @@ To disable and remove the Remove Product Tabs plugin, simply follow the steps [h
 Please review the [LICENSE](LICENSE) file located in the repo.
 
 ## Changes
-### v1.0 n(__1/16/2018__)
+### v1.0 (__1/16/2018__)
 - Initial release.
 
 ## Credits
