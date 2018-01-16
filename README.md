@@ -1,5 +1,5 @@
 # Remove Product Tabs
-WooCommerce plugin to remove product tabs from single product page.
+[WooCommerce](https://woocommerce.com) plugin to remove product tabs from single product page.
 
 ## Contents
 
@@ -12,7 +12,7 @@ The Remove Product Tabs plugin includes the following files:
 * Removal of product tabs from single product page.
 
 ## Installation
-The Remove Product Tabs plugin contents should be put in the [Wordpress plugins](https://codex.wordpress.org/Writing_a_Plugin#Names.2C_Files.2C_and_Locations) directory inside a directory named `remove-product-tabs`. Follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation) to continue installing and activating the plugin.
+The Remove Product Tabs plugin contents should be put in the [WordPress plugins](https://codex.wordpress.org/Writing_a_Plugin#Names.2C_Files.2C_and_Locations) directory inside a directory named `remove-product-tabs`. Follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation) to continue installing and activating the plugin.
 
 ## Removal
 To disable and remove the Remove Product Tabs plugin, simply follow the steps [here](https://codex.wordpress.org/Managing_Plugins#Uninstalling_Plugins), and then delete the `remove-product-tabs` directory and all of it's contents.
