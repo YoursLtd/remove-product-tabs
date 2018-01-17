@@ -1,7 +1,9 @@
 <?php
 /*
 Plugin Name: Remove Product Tabs
+Plugin URI: https://github.com/YoursLtd/remove-product-tabs
 Author: JointByte - Anthony Iacono
+Author URI: http://yoursltd.com
 Version: 1.0
 Text Domain: remove-product-tabs
 */
